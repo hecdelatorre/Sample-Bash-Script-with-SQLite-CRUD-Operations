@@ -1,0 +1,21 @@
+# .gitignore for Bash project with SQLite database
+
+# Ignore SQLite database file
+example.db
+
+# Ignore any backup files created by editors or IDEs
+*~
+
+# Ignore compiled binaries or object files
+*.o
+*.out
+
+# Ignore any log files
+*.log
+
+# Ignore temporary files
+*.tmp
+
+# Ignore files and directories generated during script execution
+/tmp/
+/temp/
